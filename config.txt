@@ -1,0 +1,4 @@
+Name: Dreamcoin
+Supply: 1000000
+Daily Faucet Amount: 100
+Initial Wallet Amount: 100
